@@ -36,6 +36,11 @@ Analyze Cyclistic bike-share data from **July 2025 through June 2026** to unders
 
 <img width="2048" height="1151" alt="Cyclistic Dashboard" src="https://github.com/user-attachments/assets/c3bbaa2b-9cd1-4d8b-8331-532d906f9209" />
 
+### Interactive Dashboard
+
+View the interactive Tableau dashboard here:
+
+https://public.tableau.com/views/CyclisticDashboard_17852963021900/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 ---
 
